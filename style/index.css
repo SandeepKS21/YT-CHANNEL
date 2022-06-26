@@ -1,0 +1,120 @@
+.banner {
+    max-width: 100%;
+
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+.btn {
+    margin-left: 10px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.form-control {
+    margin-top: 5px;
+}
+
+.d-flex {
+    margin-top: 5px;
+}
+
+
+.yt {
+    max-height: 200px;
+
+}
+
+.navbar-nav {
+    align-items: stretch;
+
+}
+
+.logo {
+    margin-left: 11px;
+}
+
+.video {
+    width: 100%;
+}
+
+.card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.games ul li {
+    list-style: none;
+}
+
+.games {
+    /* float left will align all text in left side */
+    float: left;
+}
+
+.title {
+    margin-left: 30px;
+}
+
+footer div ul li a {
+    /* This will remove underline from link text */
+    text-decoration: none;
+    color: black;
+
+}
+
+footer div ul li {
+    margin-top: 5px;
+
+}
+
+
+.foot_menu {
+    margin-top: 40px;
+    font-style: italic;
+    font-size: 22px;
+    float: left;
+    /* max-width will stop text going out of container */
+    max-width: 434px;
+}
+
+.f_menu {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.f_1 {
+    background: linear-gradient(to right, #ff5f6d, #ffc371);
+    padding: 10px;
+    display: flex;
+    /* with this we can write any thing right side of another text */
+
+}
+
+footer h5 {
+    color: aliceblue;
+}
+
+footer a {
+    color: aliceblue;
+    margin-left: 15px;
+    margin-top: 6px;
+}
+
+.contact {
+    color: black;
+}
+
+.cont {
+    float: left;
+    margin-left: 50px;
+}
+footer{
+    padding-bottom: 10px;
+}
