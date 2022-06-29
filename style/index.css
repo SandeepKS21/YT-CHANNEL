@@ -119,3 +119,20 @@ footer a {
 footer{
     padding-bottom: 10px;
 }
+
+.send{
+margin: 0px !important;
+}
+
+@media(max-width:998px){
+    html{
+        font-size: 45%;
+    }
+}
+
+@media (max-width:768px){
+    html{
+        font-size:45%;
+    }
+}
+
